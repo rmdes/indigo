@@ -16,7 +16,7 @@ canonifyurls  = true
   Biography = "Geek sur la Tech, l'information, la démocratie, la Justice et le discernement | Partie civile OKCinfo"
   ShowBio = true
   PermalinkText = "Link"
-  #mainSections = ["post", "updates"]
+  mainSections = ["post", "updates"]
   # Web Monetization only works on secure pages served over HTTPS.
   paymentPointer = ""
 
